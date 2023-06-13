@@ -4,9 +4,9 @@
 🌱 I’m a Statistics graduate
 👯 Hence, the data scientist (R, PY & MySQL)
 🤔 Software Engineer at E&M Technology House, Kenya. Angular FE & Spring Boot BE
-💬 Ask me about EDA, data analysis, BI: basically anything data related & all things angular & Spring boot
+💬 Ask me about EDA, data analysis, BI: basically, anything data related & all things angular & Spring boot
 📫 How to reach me: farrel.82008@gmail.com
-⚡ Fun fact: there is a peace treaty to prevent millitary action on the moon. A lunatic idea, considering the etymology of lunatic.
+⚡ Fun fact: there is a peace treaty to prevent military action on the moon. A lunatic idea, considering the etymology of lunatic.
 -->
 
 
@@ -22,16 +22,16 @@
 
 # 📊 GitHub Stats:
 
-| Stats | Contributions |
-| ------ | ------ |
-| ![](https://github-readme-stats.vercel.app/api?username=alexngumbau&theme=dark&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=alexngumbau&theme=dark&hide_border=false) |
+| Contributions |
+| ------ |
+| ![](https://github-readme-streak-stats.herokuapp.com/?user=SW-Muriu&theme=dark&hide_border=false) |
 
-| Languages | ✍️ Random Dev Quote |
-| ------ | ------ |
-| ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alexngumbau&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
+| ✍️ Random Dev Quote |
+| ------ |
+| ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
 
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alexngumbau&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=SW-Muriu&icon=0&color=0)](https://visitcount.itsvg.in)
 
