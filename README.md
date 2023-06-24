@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Sammy M.
 👽 Most call me Samsicker
 🔭 I’m a CS graduate...
-🌱 I’m a Statistics graduate
-👯 Hence, the data scientist (R, PY & MySQL)
+🌱 A Statistics Graduate
+👯 Hence, the data scientist (R, .PYTHON & MySQL): with top tier Weka, QlikView, and Excel skills
 🤔 Software Engineer at E&M Technology House, Kenya. Angular FE & Spring Boot BE
 💬 Ask me about EDA, data analysis, BI: basically, anything data related & all things angular & Spring boot
 📫 How to reach me: farrel.82008@gmail.com
