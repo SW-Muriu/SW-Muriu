@@ -26,6 +26,8 @@
 | ------ |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=SW-Muriu&theme=dark&hide_border=false) |
 
+<figure><embed src="https://wakatime.com/share/@Samsicker/ee1aa2fa-b92a-4870-a1eb-609d86747a80.svg"></embed></figure>
+
 | ✍️ Random Dev Quote |
 | ------ |
 | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
