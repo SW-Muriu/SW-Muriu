@@ -28,9 +28,6 @@
 | ✍️ Random Dev Quote |
 | ------ |
 | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
-[![](https://wakatime.com/share/@Samsicker/ce12f4e2-d1f0-4e4f-9c76-7c0b6cc39856.svg)
-
-
 ---
 
 
