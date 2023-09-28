@@ -28,9 +28,10 @@
 | ✍️ Random Dev Quote |
 | ------ |
 | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
+[![](https://wakatime.com/share/@Samsicker/ce12f4e2-d1f0-4e4f-9c76-7c0b6cc39856.svg)
 
 
-<figure><embed src="https://wakatime.com/share/@Samsicker/ce12f4e2-d1f0-4e4f-9c76-7c0b6cc39856.svg"></embed></figure>
 ---
-[![](https://visitcount.itsvg.in/api?id=SW-Muriu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
