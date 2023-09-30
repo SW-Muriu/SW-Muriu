@@ -26,8 +26,8 @@
 | ------ |
 | ![](https://github-readme-streak-stats.herokuapp.com/?user=SW-Muriu&theme=dark&hide_border=false) |
 | ✍️ Random Dev Quote |
-| ------ |
 | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
+| <a href="https://wakatime.com/badge/user/d88dc9e6-89c7-4457-b222-330a12b95e04/project/ba316dd6-d88b-41d2-9347-1c84a336d587"><img src="https://wakatime.com/badge/user/d88dc9e6-89c7-4457-b222-330a12b95e04/project/ba316dd6-d88b-41d2-9347-1c84a336d587.svg" alt="wakatime"></a> <a href="https://wakatime.com/badge/user/d88dc9e6-89c7-4457-b222-330a12b95e04/project/c73b1465-a4cd-40db-a416-a5c349f4e67c"><img src="https://wakatime.com/badge/user/d88dc9e6-89c7-4457-b222-330a12b95e04/project/c73b1465-a4cd-40db-a416-a5c349f4e67c.svg" alt="wakatime"></a>|
 ---
 
 
