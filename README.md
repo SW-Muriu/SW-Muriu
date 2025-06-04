@@ -1,4 +1,4 @@
-# 👋 Hi, I'm S.W.Muriu — a.k.a. *Samsicker*  
+# 👋 Hi, I'm S.W.Muriu a.k.a. *Samsicker*  
 💻 **Software Engineer** | 🔧 **Java (Spring Boot)** + **Angular** | 📊 **Ex-Data Consultant**  
 🌍 Based in Nairobi, Kenya  
 
@@ -46,7 +46,7 @@
 
 ## ⚡ Fun Fact  
 
-There’s still a peace treaty banning military activity on the moon — lunacy, but true. 🌕
+There’s still a peace treaty banning military activity on the moon; lunacy, but true. 🌕
 
 # 📊 GitHub Stats:
 
