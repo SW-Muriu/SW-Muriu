@@ -1,25 +1,52 @@
-### Hi there 👋 I'm Sammy M.
-👽 Most call me Samsicker
-🔭 I’m a CS graduate...
-🌱 A Statistics Graduate
-👯 Hence, the data scientist (R, .PYTHON & MySQL): with top-tier Tableau, Weka, QlikView, and Excel skills
-🤔 Software Engineer at E&M Technology House, Kenya. Angular FE & Spring Boot BE
-💬 Ask me about EDA, data analysis, BI: basically, anything data related & all things angular & Spring boot
-📫 How to reach me: farrel.82008@gmail.com
-⚡ Fun fact: there is a peace treaty to prevent military action on the moon. A lunatic idea, considering the etymology of lunatic.
--->
+# 👋 Hi, I'm Sammy W. Muriu — a.k.a. *Samsicker*  
+💻 **Software Engineer** | 🔧 **Java (Spring Boot)** + **Angular** | 📊 **Ex-Data Consultant**  
+🌍 Based in Nairobi, Kenya  
 
+---
 
- # 💻 Tech Stack:
-<!-- | Mobile |  |  |  |
-| ------ | ------ | ------ | ------ |
-| ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) | ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) | ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) | -->
+## 🚀 What I Do  
 
-| Others |  |  |  |  |  |  |  | 
-| ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
-|  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) |![](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) | ![](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) | ![](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) | ![](https://img.shields.io/badge/sql-%23FFC107.svg?style=for-the-badge&logo=sql&logoColor=white) | ![](https://img.shields.io/badge/sqlite-%2300C4CC.svg?style=for-the-badge&logo=sqlite&logoColor=white) | ![](https://img.shields.io/badge/mongodb-%2347BCF9.svg?style=for-the-badge&logo=mongodb&logoColor=white) | ![](https://img.shields.io/badge/postgresql-%2331617D.svg?style=for-the-badge&logo=postgresql&logoColor=white) |
+- 🏦 **Software Engineer @ Equity Bank Ltd.**  
+  Building scalable frontend solutions for platforms used by **2M+ customers** across Africa.  
 
+- 🧩 **Full-Stack Developer**  
+  Proficient in **Angular**, **Spring Boot**, REST APIs, and **Microservices Architecture**  
 
+- 📈 **Former Data Consultant**  
+  Skilled in data analysis, BI dashboards, and predictive modeling using **R**, **Python**, and **MySQL**  
+
+---
+
+## 🧠 Skills Snapshot  
+
+- **Languages**: Java, TypeScript, JavaScript, HTML, CSS, SQL, Golang 
+- **Frameworks**: Spring Boot, Angular, Spring Security,Nest, JWT, REST  
+- **Data & BI**: MySQL, Tableau, Excel, Statistical Modeling  
+- **Tools**: Git, Postman, JIRA, Jest, Docker (basic)  
+- **Practices**: Agile, Clean Code, Version Control, Modular Architecture  
+
+---
+
+## 📌 Highlights  
+
+- 🛠️ Reduced transaction reconciliation time by **90%** at Equity  
+- 📦 Boosted backend performance by **25%** at E&M Tech  
+- 📊 Developed predictive models that improved marketing ROI by **12%**  
+
+---
+
+## 📬 Get in Touch  
+
+- 📧 **Email**: poornadumani@gmail.com  
+- 🔗 [LinkedIn](https://bit.ly/4l3w8QY)  
+- 🌐 [Portfolio](https://bit.ly/4c4AOSs)  
+- ⏱ [Wakatime](https://bit.ly/43q2EGP)
+
+---
+
+## ⚡ Fun Fact  
+
+There’s still a peace treaty banning military activity on the moon — lunacy, but true. 🌕
 
 # 📊 GitHub Stats:
 
