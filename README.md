@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sammy W. Muriu — a.k.a. *Samsicker*  
+# 👋 Hi, I'm S.W.Muriu — a.k.a. *Samsicker*  
 💻 **Software Engineer** | 🔧 **Java (Spring Boot)** + **Angular** | 📊 **Ex-Data Consultant**  
 🌍 Based in Nairobi, Kenya  
 
@@ -7,7 +7,7 @@
 ## 🚀 What I Do  
 
 - 🏦 **Software Engineer @ Equity Bank Ltd.**  
-  Building scalable frontend solutions for platforms used by **2M+ customers** across Africa.  
+  Building scalable frontend solutions for platforms used by **20M+ customers** across Africa.  
 
 - 🧩 **Full-Stack Developer**  
   Proficient in **Angular**, **Spring Boot**, REST APIs, and **Microservices Architecture**  
