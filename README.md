@@ -7,7 +7,7 @@
 ## 🚀 What I Do  
 
 - 🏦 **Software Engineer @ Equity Bank Ltd.**  
-  Building scalable frontend solutions for platforms used by **20M+ customers** across Africa.  
+  Building scalable fintech software solutions for platforms used by **20M+ customers** across Africa.  
 
 - 🧩 **Full-Stack Developer**  
   Proficient in **Angular**, **Spring Boot**, REST APIs, and **Microservices Architecture**  
