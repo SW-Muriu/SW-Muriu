@@ -2,6 +2,8 @@
 💻 **Software Engineer** | 🔧 **Java (Spring Boot)** + **Angular** | 📊 **Ex-Data Consultant**  
 🌍 Based in Nairobi, Kenya  
 
+*Math + CS double threat. Transistors flip bits; numbers spark algos. I forge the matrix.* 
+
 ---
 
 ## 🚀 What I Do  
