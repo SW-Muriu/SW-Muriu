@@ -58,7 +58,7 @@ There’s still a peace treaty banning military activity on the moon; lunacy, bu
 | ✍️ Random Dev Quote |
 | ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) |
 | <a href="https://wakatime.com/@d88dc9e6-89c7-4457-b222-330a12b95e04"><img src="https://wakatime.com/badge/user/d88dc9e6-89c7-4457-b222-330a12b95e04.svg" alt="Total time coded since Sep 14 2023" /></a>|
-| <a href="https://wakatime.com/@615ea8c1-c8b4-4e48-91d4-56f1fbf485c9"><img src="https://wakatime.com/badge/user/615ea8c1-c8b4-4e48-91d4-56f1fbf485c9.svg" alt="Total time coded since Oct 21 2024" /></a>|
+| [![wakatime](https://wakatime.com/badge/user/615ea8c1-c8b4-4e48-91d4-56f1fbf485c9.svg)](https://wakatime.com/@615ea8c1-c8b4-4e48-91d4-56f1fbf485c9)|
 ---
 
 
