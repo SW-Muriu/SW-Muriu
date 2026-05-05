@@ -21,8 +21,8 @@
 
 ## 🧠 Skills Snapshot  
 
-- **Languages**: Java, TypeScript, JavaScript, HTML, CSS, SQL, Golang 
-- **Frameworks**: Spring Boot, Angular, Spring Security,Nest, JWT, REST  
+- **Languages**: Java, TypeScript, JavaScript,C#,Golang, HTML, CSS, SQL,
+- **Frameworks**: Spring Boot, Angular, Spring Security,Nest, JWT, REST, .NET
 - **Data & BI**: MySQL, Tableau, Excel, Statistical Modeling  
 - **Tools**: Git, Postman, JIRA, Jest, Docker (basic)  
 - **Practices**: Agile, Clean Code, Version Control, Modular Architecture  
